@@ -1,0 +1,5 @@
+﻿  CK_VoLamTruyenKi.cpp
+C:\Users\84848\OneDrive\Tài liệu\Study\Năm 1\Ki_2\OOP\CK_VoLamTruyenKi\CK_VoLamTruyenKi.cpp(186,16): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\84848\OneDrive\Tài liệu\Study\Năm 1\Ki_2\OOP\CK_VoLamTruyenKi\CK_VoLamTruyenKi.cpp(201,17): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\84848\OneDrive\Tài liệu\Study\Năm 1\Ki_2\OOP\CK_VoLamTruyenKi\CK_VoLamTruyenKi.cpp(213,17): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  CK_VoLamTruyenKi.vcxproj -> C:\Users\84848\OneDrive\Tài liệu\Study\Năm 1\Ki_2\OOP\x64\Debug\CK_VoLamTruyenKi.exe

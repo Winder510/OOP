@@ -1,0 +1,23 @@
+﻿  SinhVienDaiHoc.cpp
+C:\Users\84848\OneDrive\Tài liệu\Study\Năm 1\Ki_2\OOP\BT_NOP\HocSinhDaiHoc.h(5,9): error C3646: 'MSSV': unknown override specifier
+C:\Users\84848\OneDrive\Tài liệu\Study\Năm 1\Ki_2\OOP\BT_NOP\HocSinhDaiHoc.h(5,13): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\84848\OneDrive\Tài liệu\Study\Năm 1\Ki_2\OOP\BT_NOP\HocSinhDaiHoc.h(6,9): error C3646: 'HoTen': unknown override specifier
+C:\Users\84848\OneDrive\Tài liệu\Study\Năm 1\Ki_2\OOP\BT_NOP\HocSinhDaiHoc.h(6,14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\84848\OneDrive\Tài liệu\Study\Năm 1\Ki_2\OOP\BT_NOP\HocSinhDaiHoc.h(7,9): error C3646: 'DiaChi': unknown override specifier
+C:\Users\84848\OneDrive\Tài liệu\Study\Năm 1\Ki_2\OOP\BT_NOP\HocSinhDaiHoc.h(7,15): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\84848\OneDrive\Tài liệu\Study\Năm 1\Ki_2\OOP\BT_NOP\HocSinhDaiHoc.h(10,9): error C3646: 'TenLuanVan': unknown override specifier
+C:\Users\84848\OneDrive\Tài liệu\Study\Năm 1\Ki_2\OOP\BT_NOP\HocSinhDaiHoc.h(10,19): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\84848\OneDrive\Tài liệu\Study\Năm 1\Ki_2\OOP\BT_NOP\HocSinhDaiHoc.h(13,31): error C2061: syntax error: identifier 'string'
+C:\Users\84848\OneDrive\Tài liệu\Study\Năm 1\Ki_2\OOP\BT_NOP\HocSinhDaiHoc.h(15,9): error C2039: 'MSSV': is not a member of 'SinhVienDaiHoc'
+C:\Users\84848\OneDrive\Tài liệu\Study\Năm 1\Ki_2\OOP\BT_NOP\HocSinhDaiHoc.h(2): message : see declaration of 'SinhVienDaiHoc'
+C:\Users\84848\OneDrive\Tài liệu\Study\Năm 1\Ki_2\OOP\BT_NOP\HocSinhDaiHoc.h(16,9): error C2039: 'HoTen': is not a member of 'SinhVienDaiHoc'
+C:\Users\84848\OneDrive\Tài liệu\Study\Năm 1\Ki_2\OOP\BT_NOP\HocSinhDaiHoc.h(2): message : see declaration of 'SinhVienDaiHoc'
+C:\Users\84848\OneDrive\Tài liệu\Study\Năm 1\Ki_2\OOP\BT_NOP\HocSinhDaiHoc.h(16,17): error C2065: 'HoTen': undeclared identifier
+C:\Users\84848\OneDrive\Tài liệu\Study\Năm 1\Ki_2\OOP\BT_NOP\HocSinhDaiHoc.h(17,9): error C2039: 'DiaChi': is not a member of 'SinhVienDaiHoc'
+C:\Users\84848\OneDrive\Tài liệu\Study\Năm 1\Ki_2\OOP\BT_NOP\HocSinhDaiHoc.h(2): message : see declaration of 'SinhVienDaiHoc'
+C:\Users\84848\OneDrive\Tài liệu\Study\Năm 1\Ki_2\OOP\BT_NOP\HocSinhDaiHoc.h(17,18): error C2065: 'DiaChi': undeclared identifier
+C:\Users\84848\OneDrive\Tài liệu\Study\Năm 1\Ki_2\OOP\BT_NOP\HocSinhDaiHoc.h(20,9): error C2039: 'TenLuanVan': is not a member of 'SinhVienDaiHoc'
+C:\Users\84848\OneDrive\Tài liệu\Study\Năm 1\Ki_2\OOP\BT_NOP\HocSinhDaiHoc.h(2): message : see declaration of 'SinhVienDaiHoc'
+C:\Users\84848\OneDrive\Tài liệu\Study\Năm 1\Ki_2\OOP\BT_NOP\HocSinhDaiHoc.h(20,22): error C2065: 'TenLuanVan': undeclared identifier
+  SinhVien.cpp
+  Generating Code...

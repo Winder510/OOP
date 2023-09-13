@@ -1,0 +1,10 @@
+﻿  cPhanSo.cpp
+C:\Users\84848\OneDrive\Tài liệu\Study\Năm 1\Ki_2\OOP\C5_BT2\cPhanSo.h(10,2): error C2059: syntax error: '{'
+C:\Users\84848\OneDrive\Tài liệu\Study\Năm 1\Ki_2\OOP\C5_BT2\cPhanSo.h(10,2): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+  DSPhanSo.cpp
+C:\Users\84848\OneDrive\Tài liệu\Study\Năm 1\Ki_2\OOP\C5_BT2\cPhanSo.h(10,2): error C2059: syntax error: '{'
+C:\Users\84848\OneDrive\Tài liệu\Study\Năm 1\Ki_2\OOP\C5_BT2\cPhanSo.h(10,2): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+  main.cpp
+C:\Users\84848\OneDrive\Tài liệu\Study\Năm 1\Ki_2\OOP\C5_BT2\cPhanSo.h(10,2): error C2059: syntax error: '{'
+C:\Users\84848\OneDrive\Tài liệu\Study\Năm 1\Ki_2\OOP\C5_BT2\cPhanSo.h(10,2): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+  Generating Code...

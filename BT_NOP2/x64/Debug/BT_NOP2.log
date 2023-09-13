@@ -1,0 +1,7 @@
+﻿  ThuVien.cpp
+C:\Users\84848\OneDrive\Tài liệu\Study\Năm 1\Ki_2\OOP\BT_NOP2\ThuVien.cpp(83,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\84848\OneDrive\Tài liệu\Study\Năm 1\Ki_2\OOP\BT_NOP2\ThuVien.cpp(92,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\84848\OneDrive\Tài liệu\Study\Năm 1\Ki_2\OOP\BT_NOP2\ThuVien.cpp(104,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\84848\OneDrive\Tài liệu\Study\Năm 1\Ki_2\OOP\BT_NOP2\ThuVien.cpp(113,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\84848\OneDrive\Tài liệu\Study\Năm 1\Ki_2\OOP\BT_NOP2\ThuVien.cpp(173,27): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  BT_NOP2.vcxproj -> C:\Users\84848\OneDrive\Tài liệu\Study\Năm 1\Ki_2\OOP\x64\Debug\BT_NOP2.exe

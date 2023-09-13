@@ -1,0 +1,9 @@
+﻿  Overlord.cpp
+C:\Users\84848\OneDrive\Tài liệu\Study\Năm 1\Ki_2\OOP\CK_DeThiThuBHT\Overlord.cpp(37,11): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\84848\OneDrive\Tài liệu\Study\Năm 1\Ki_2\OOP\CK_DeThiThuBHT\Overlord.cpp(86,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\84848\OneDrive\Tài liệu\Study\Năm 1\Ki_2\OOP\CK_DeThiThuBHT\Overlord.cpp(96,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\84848\OneDrive\Tài liệu\Study\Năm 1\Ki_2\OOP\CK_DeThiThuBHT\Overlord.cpp(104,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\84848\OneDrive\Tài liệu\Study\Năm 1\Ki_2\OOP\CK_DeThiThuBHT\Overlord.cpp(121,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\84848\OneDrive\Tài liệu\Study\Năm 1\Ki_2\OOP\CK_DeThiThuBHT\Overlord.cpp(122,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\84848\OneDrive\Tài liệu\Study\Năm 1\Ki_2\OOP\CK_DeThiThuBHT\Overlord.cpp(131,9): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  CK_DeThiThuBHT.vcxproj -> C:\Users\84848\OneDrive\Tài liệu\Study\Năm 1\Ki_2\OOP\x64\Debug\CK_DeThiThuBHT.exe

@@ -1,0 +1,8 @@
+﻿  Bai_9.cpp
+C:\Users\84848\OneDrive\Tài liệu\Study\Năm 1\Ki_2\OOP\Bai_9\Bai_9.cpp(66,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\84848\OneDrive\Tài liệu\Study\Năm 1\Ki_2\OOP\Bai_9\Bai_9.cpp(67,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\84848\OneDrive\Tài liệu\Study\Năm 1\Ki_2\OOP\Bai_9\Bai_9.cpp(70,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\84848\OneDrive\Tài liệu\Study\Năm 1\Ki_2\OOP\Bai_9\Bai_9.cpp(71,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\84848\OneDrive\Tài liệu\Study\Năm 1\Ki_2\OOP\Bai_9\Bai_9.cpp(74,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\84848\OneDrive\Tài liệu\Study\Năm 1\Ki_2\OOP\Bai_9\Bai_9.cpp(75,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Bai_9.vcxproj -> C:\Users\84848\OneDrive\Tài liệu\Study\Năm 1\Ki_2\OOP\x64\Debug\Bai_9.exe

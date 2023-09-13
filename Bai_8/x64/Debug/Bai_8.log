@@ -1,0 +1,5 @@
+﻿  Testcancidate.cpp
+C:\Users\84848\OneDrive\Tài liệu\Study\Năm 1\Ki_2\OOP\Bai_8\Testcancidate.cpp(36,56): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\84848\OneDrive\Tài liệu\Study\Năm 1\Ki_2\OOP\Bai_8\Testcancidate.cpp(36,47): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\84848\OneDrive\Tài liệu\Study\Năm 1\Ki_2\OOP\Bai_8\Testcancidate.cpp(36,37): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Bai_8.vcxproj -> C:\Users\84848\OneDrive\Tài liệu\Study\Năm 1\Ki_2\OOP\x64\Debug\Bai_8.exe

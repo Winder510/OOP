@@ -1,0 +1,3 @@
+﻿  CK_FreeFire.cpp
+C:\Users\84848\OneDrive\Tài liệu\Study\Năm 1\Ki_2\OOP\CK_FreeFire\CK_FreeFire.cpp(119,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  CK_FreeFire.vcxproj -> C:\Users\84848\OneDrive\Tài liệu\Study\Năm 1\Ki_2\OOP\x64\Debug\CK_FreeFire.exe
